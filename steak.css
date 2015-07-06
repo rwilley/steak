@@ -1,0 +1,39 @@
+body {
+  font-size: 12pt;
+  font-family: Century, Times New Roman, serif;
+  color: black;
+  line-height: 18pt;
+  padding-left: 200pt;
+  padding-right: 220pt;
+  padding-top: 5pt;
+}
+
+h1 {
+  font: 50pt Arial, Veranda, sans-serif;
+  font-weight: 900;
+  line-height: 30pt;
+}
+
+h2 {
+  font: 16pt Century, Times New Roman, serif;
+  font-style: italic;
+  font-weight: 600;
+  line-height: 24pt;
+  color: #700000;
+}
+
+h3 {
+  font: 12pt Century, Times New Roman, serif;
+  font-weight: 500;
+  line-height: 20pt;
+  color: #707070;
+  display: inline; 
+}
+
+footer {
+  font-size: 9pt;
+  line height: 14pt;
+  word-spacing: 40pt;
+  text-align: center;
+  padding top: 20pt;
+}
